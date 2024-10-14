@@ -18,3 +18,5 @@ function gHappy(word) {
 console.log(gHappy("xxggxx"));
 console.log(gHappy("xxgxx"));
 console.log(gHappy("xxggyygxx"));
+// 
+
